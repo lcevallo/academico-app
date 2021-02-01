@@ -25,3 +25,41 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+<!-- 
+    Objetivo:
+        Crear múltiples cursores para editar 
+    
+    Tips:
+        ⇧ ⌥ ↑ / ↓
+        Ctrl+ Shift + Alt+ ↑ / ↓
+        Alt + CLICK del mouse
+        Alt+ ↑ / ↓
+       
+-->
+<!-- 
+    Objetivo:
+        Clonar línea
+
+    Tips:
+        * Puede cambiar, revisar los shortcuts
+
+        ⇧ ⌥ D
+        Shift + Alt + Down
+
+    Pro: (Revisar shortcuts)
+        Copy line down
+        ⌘ K ⌘ S
+        Ctrl + K Ctrl + S
+-->
+
+Para ver los directorios vacios
+find . -type d -empty
+
+
+touch .gitkeep
+git add .
+
+
+https://angular-folder-structure.readthedocs.io/en/latest/media.html
