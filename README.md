@@ -61,5 +61,7 @@ find . -type d -empty
 touch .gitkeep
 git add .
 
+Instalaciones necesarias
+https://gist.github.com/Klerith/607dd6bb60b5a70bc5e4d9c81ef6501e
 
 https://angular-folder-structure.readthedocs.io/en/latest/media.html
