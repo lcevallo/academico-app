@@ -28,7 +28,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/assets/build/css/custom.min.css"
             ],
             "scripts": []
           },
